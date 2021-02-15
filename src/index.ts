@@ -6,7 +6,7 @@ if (process.env.NODE_ENV == 'development') {
 }
 
 function main() {
-    const NAME = process.env.NAME || 'world';
+    const NAME = process.env.NAME;
 
     console.debug(hello(NAME ?? undefined));
 }

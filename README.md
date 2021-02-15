@@ -9,7 +9,7 @@ Typescript starter project.
 Save storage with [pnpm](https://pnpm.js.org/). You can also use regular NPM or Yarn.
 
 ```
-pnpmp install
+pnpm install
 ```
 
 ## Cloning
